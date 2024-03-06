@@ -1,4 +1,4 @@
-# My Special Website 
+# Vashti's Website 
 
 My first website using Markdown and GitHub Pages.
 
